@@ -1,0 +1,13 @@
+import the scanner class
+create scanner object and assign it to input var.
+prompt user for month, date, and year.
+create a switch statement for month and declare and assign a month string variable according to the input.
+check if dat entered is withing range of 1 to 31.
+print out the date in full date format.
+
+
+*****************Code output*********
+Enter month(mm): 03
+Enter day(dd): 23
+Enter year(yy): 23
+It is March 23, 23
